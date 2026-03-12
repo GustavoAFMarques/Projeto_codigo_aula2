@@ -1,4 +1,4 @@
-# Projeto_codigo_aula2
+# Código inicial do projeto 1
 Tarefas realizadas:
 - Importação das bibliotecas
 - Entrada de dados
